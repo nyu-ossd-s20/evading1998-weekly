@@ -25,12 +25,12 @@ avatar_alt_text: Avatar
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:evading1998@qq.com
+  email: evading1998@qq.com
   facebook:
   flickr:
   github: evading1998
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/yifan-eva-ding-7ab17a154/
   pinterest:
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
