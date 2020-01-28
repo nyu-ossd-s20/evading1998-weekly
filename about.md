@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a junior majoring in math joint cs
+I have had some experience with Java and C
+I love tennis and movies!
 
 ### More Information
 
