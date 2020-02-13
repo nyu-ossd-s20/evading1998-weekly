@@ -21,5 +21,5 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 12   | https://www.openstreetmap.org/note/2088102    |  OpenStreet Map feature   |   I added a note on a missing restaurant near my apartment.    |
-|     |     |     |      |
+|  Feb 12   |  https://github.com/nyu-ossd-s20/sylviaji-weekly/issues/1#issue-564396862   |  Blog-wiki   |  I noticed a link to a repository instead of the actual blog. Reported issue to the owner   |
 |     |     |     |      |
