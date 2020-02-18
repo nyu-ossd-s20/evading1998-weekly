@@ -20,6 +20,7 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 12   | [Changeset Link](https://www.openstreetmap.org/note/2088102)   |  OpenStreet Map feature   |   I added a note on a missing restaurant near my apartment.    |
+| Feb 12   | [Changeset Link](https://www.openstreetmap.org/note/2088102)   |  OpenStreet Map feature   |   added a note on a missing restaurant near my apartment.    |
 |  Feb 12   |  [Github issue](https://github.com/nyu-ossd-s20/sylviaji-weekly/issues/1#issue-564396862)   |  Blog-wiki   |  I noticed a link to a repository instead of the actual blog. Reported issue to the owner   |
-| Feb 13    |   [Changeset Link](https://www.openstreetmap.org/note/1061246)  |  OpenStreet Map feature   |  I resolved a note regarding a non-exsisting location    |
+| Feb 13    |   [Changeset Link](https://www.openstreetmap.org/note/1061246)  |  OpenStreet Map feature   |  resolved a note regarding a non-exsisting location    |
+| Feb 18    |   [wiki Link](https://en.wikipedia.org/wiki/Tianjin_cuisine)  |  Wikipedia   |  improved translation from english to Chinese    |
