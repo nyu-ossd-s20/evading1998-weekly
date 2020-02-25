@@ -24,3 +24,4 @@ Replace the first row with your own contribution.
 |  Feb 12   |  [Github issue](https://github.com/nyu-ossd-s20/sylviaji-weekly/issues/1#issue-564396862)   |  Blog-wiki   |  I noticed a link to a repository instead of the actual blog. Reported issue to the owner   |
 | Feb 13    |   [Changeset Link](https://www.openstreetmap.org/note/1061246)  |  OpenStreet Map feature   |  resolved a note regarding a non-exsisting location    |
 | Feb 18    |   [wiki Link](https://en.wikipedia.org/wiki/Tianjin_cuisine)  |  Wikipedia   |  improved translation from english to Chinese    |
+| Feb 25    |   [github Link](https://github.com/firstcontributions/first-contributions/pull/25304)  |  github   |  contributed to FirstContribution    |
