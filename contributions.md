@@ -27,3 +27,5 @@ Replace the first row with your own contribution.
 | Feb 25    |   [github Link](https://github.com/firstcontributions/first-contributions/pull/25304)  |  github   |  contributed to FirstContribution    |
 | Feb 29    |   [github Link](https://github.com/nyu-ossd-s20/evading1998-weekly/issues/1)  |  github   |  contributed to repository by correcting an image link    |
 | March 1    |   [github Link](https://github.com/nyu-ossd-s20/evading1998-weekly/issues/2)  |  github   |  contributed to repository by fixing and closing an issue    |
+| March 3    |   [github Link](https://github.com/nyu-ossd-s20/evading1998-weekly/issues/3
+)  |  github   |  contributed to repository by fixing and closing an issue    |
