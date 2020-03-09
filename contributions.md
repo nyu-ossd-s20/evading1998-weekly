@@ -28,3 +28,4 @@ Replace the first row with your own contribution.
 | Feb 29    |   [github Link](https://github.com/nyu-ossd-s20/evading1998-weekly/issues/1)  |  github   |  contributed to repository by correcting an image link    |
 | March 1    |   [github Link](https://github.com/nyu-ossd-s20/evading1998-weekly/issues/2)  |  github   |  contributed to repository by fixing and closing an issue    |
 | March 3    |   [github Link](https://github.com/nyu-ossd-s20/evading1998-weekly/issues/3)  |  github   |  contributed to repository by fixing and closing an issue    |
+| March 8    |   [Changeset Link](https://www.openstreetmap.org/note/991705)  |  OpenStreet Map feature   |  resolved a note regarding a non-exsisting location    |
