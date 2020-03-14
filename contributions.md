@@ -29,3 +29,4 @@ Replace the first row with your own contribution.
 | March 1    |   [github Link](https://github.com/nyu-ossd-s20/evading1998-weekly/issues/2)  |  github   |  contributed to repository by fixing and closing an issue    |
 | March 3    |   [github Link](https://github.com/nyu-ossd-s20/evading1998-weekly/issues/3)  |  github   |  contributed to repository by fixing and closing an issue    |
 | March 8    |   [Changeset Link](https://www.openstreetmap.org/note/991705)  |  OpenStreet Map feature   |  resolved a note regarding a non-exsisting location    |
+| March 13    |   [Changeset Link](https://www.openstreetmap.org/note/2120321)  |  OpenStreet Map feature   |  added a note to report an ATM location near my apartment    |
