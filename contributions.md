@@ -31,3 +31,4 @@ Replace the first row with your own contribution.
 | March 8    |   [Changeset Link](https://www.openstreetmap.org/note/991705)  |  OpenStreet Map feature   |  resolved a note regarding a non-exsisting location    |
 | March 13    |   [Changeset Link](https://www.openstreetmap.org/note/2120321)  |  OpenStreet Map feature   |  added a note to report an ATM location near my apartment    |
 | March 26    |   [Changeset Link](https://www.openstreetmap.org/note/2131980)  |  OpenStreet Map feature   |  added a note to report a missing restaurant near my AirBnB    |
+| April 7    |   [Changeset Link](https://www.openstreetmap.org/note/2120321)  |  OpenStreet Map feature   |  resolved a note regarding a doubled reported location|
